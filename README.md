@@ -1,4 +1,4 @@
-# territory
+
 # Territory
 
 Territory is not merely a physical space, but a collective body, a place of life, memory, conflict, and care. In it, history, spirituality, and belonging intertwine. It is always a social construction appropriated in material, political, and symbolic dimensions ; it does not exist outside relations of power, identity, or meaning.
