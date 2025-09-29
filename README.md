@@ -10,3 +10,6 @@ Its complexity is expressed in three inseparable dimensions :
 - **Symbolic / Cultural**: domain charged with historical, spiritual, and identity meanings. For many peoples, a river is not just a resource: it is an ancestor, a myth, a memory.
 
 Unlike space, which can be abstract or indeterminate, **territory is always appropriated and signified**.
+
+<a href="https://github.com/marlonbarrios/list_of_applications_UI/blob/mondrian/README.md#list_of_applications_ui" target="_blank">Apps and interfaces of Pangea in Latent Space The Tectonics of Otherness</a>
+
